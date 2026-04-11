@@ -22,13 +22,10 @@ Sou estudante apaixonado por tecnologia, atualmente me formando em **Técnico em
  
 <div align="center">
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=robertoatila&theme=radical&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=robertoatila&theme=radical&mode=weekly&locale=pt_BR)](https://git.io/streak-stats)
  
-[![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertoatila&show_icons=true&theme=radical)](https://github.com/robertoatila)
- 
-[![Roberto Átila GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robertoatila&bg_color=0d1117&color=1e90ff&line=1e90ff&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoatila&layout=compact&langs_count=8&theme=radical)](https://github.com/robertoatila)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertoatila&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoatila&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"/>
  
 </div>
  
@@ -73,3 +70,4 @@ Sou estudante apaixonado por tecnologia, atualmente me formando em **Técnico em
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer)
  
 </div>
+ 
