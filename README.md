@@ -24,8 +24,8 @@ Sou estudante apaixonado por tecnologia, atualmente me formando em **Técnico em
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=robertoatila&theme=radical&locale=pt_BR)](https://git.io/streak-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertoatila&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoatila&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertoatila&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoatila&layout=compact&langs_count=8&theme=radical"/>
  
 </div>
  
