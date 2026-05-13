@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1500&color=1E90FF&center=true&vCenter=true&width=700&lines=Olá%2C+sou+Roberto+Átila!;Desenvolvedor+Full-Stack;Java+%7C+PHP+%7C+React;+Construindo+soluções+reais+desde+o+técnico.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1500&color=1E90FF&center=true&vCenter=true&width=800&lines=Olá%2C+sou+Roberto+Átila!;Desenvolvedor+Full-Stack;Java+%7C+PHP+%7C+React;Construindo+soluções+reais+desde+o+técnico.)](https://git.io/typing-svg)
 
 ---
 
