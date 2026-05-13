@@ -18,7 +18,7 @@ Desenvolvo aplicações web completas — de APIs REST em Spring Boot até inter
 
 **O que demonstra:**
 
-- RBAC com quatro papéis: `admin`, `owner`, `financial`, `operator`
+- RBAC com quatro papéis: `admin`, `owner`
 - Página de auditoria de logins (visível apenas para `admin`) com registros timestampados
 - Proteção de sessão com redirecionamento automático para `login.html`
 - Logout com modal de confirmação e invalidação segura de sessão
