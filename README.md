@@ -28,11 +28,14 @@ Desenvolvo aplicações web completas — de APIs REST em Spring Boot até inter
 
 ---
 
-### Outros Projetos
+### Projetos Públicos
 
 | Projeto | Descrição Técnica | Stack | Link |
 |---|---|---|---|
-| **EduGestor** | Sistema web completo para gestão escolar com CRUD de alunos e professores, controle de notas, chamada digital, relatórios semanais e integração com APIs de nuvem. Implantado em AWS EC2 com nginx + PHP-FPM. | PHP 8, SQLite, React 18, TypeScript, Tailwind, Vite, Supabase, OpenAI, SendGrid | [Repositório](https://github.com/robertoatila/CRUD-PHP-SISTEMA-ESCOLAR) |
+| **EduGestor v3** | Gestão escolar Full-Stack com CRUD de alunos/professores, controle de notas, chamada digital, relatórios automatizados e notificações via SendGrid. Arquitetura híbrida SQLite + Supabase Cloud, foco em performance, segurança e UX. | PHP 8, React 18, TypeScript 5, Tailwind 4, SQLite, Supabase, SendGrid | [Repositório](https://github.com/robertoatila/EduGestor-v3) |
+| **Portfólio Arduino** | Portfólio web imersivo estilo Maker/Cyberpunk com zero frameworks. Inclui simulador interativo de circuitos, syntax highlighter com numeração de linha (CSS Counters), boot screen de compilação autêntico e PWA instalável. Performance extrema via `IntersectionObserver` e `requestAnimationFrame`. | HTML5, CSS3, JavaScript ES6+, PWA | [Repositório](https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino) |
+| **Cartão de Visitas Digital** | App mobile de portfólio profissional em React Native com 3 telas (cartão, contatos, skills), navegação por estado global, renderização condicional e design responsivo com paleta corporativa. | React Native, JavaScript, Expo | [Repositório](https://github.com/robertoatila/Cartao-de-visitas) |
+| **Invincible – Invasão de Marte** | Jogo de luta side-scrolling baseado na HQ Invincible, com 3 fases de dificuldade progressiva e boss final. Construído em HTML5 Canvas puro, sem bibliotecas externas. | HTML5 Canvas, JavaScript | [Repositório](https://github.com/robertoatila/invincible-game) |
 
 ---
 
