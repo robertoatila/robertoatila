@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Full-Stack | Java · PHP · React | Segurança Web & Cloud
 
-Desenvolvo aplicações web completas — de APIs REST em Spring Boot até interfaces em React — com foco em segurança (RBAC, JWT, auditoria de logins) e arquitetura real. Atualmente no 3º ano do Técnico em Informática para Internet na ETEC e buscando minha primeira oportunidade de **Estágio em Desenvolvimento Full-Stack ou Backend**.
+Desenvolvo aplicações web completas — de APIs REST em Spring Boot até interfaces em React — com foco em segurança (RBAC, JWT, auditoria de logins) e arquitetura real. Atualmente no 3º ano do Técnico em Informática para Internet e Desenvolvimento de Sistemas na ETEC e buscando minha primeira oportunidade de **Estágio em Desenvolvimento Full-Stack ou Backend**.
 
 ---
 
