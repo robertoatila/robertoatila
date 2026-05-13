@@ -10,21 +10,23 @@ Desenvolvo aplicações web completas — de APIs REST em Spring Boot até inter
 
 ### Projeto CORE
 
-#### MarkitosSystem — Sistema de Faturamento e Controle de Acesso
+#### MarkitosSystem — SaaS de Faturamento Multi-Tenant
 
-> Sistema de faturamento full-stack com controle de acesso baseado em papéis, trilha de auditoria de logins e proteção de sessão. Desenvolvido como TCC com práticas de segurança orientadas à produção.
+> Sistema web de gestão de faturamento arquitetado como SaaS. Cada empresa opera em espaço 100% isolado — clientes, produtos e faturas completamente separados entre tenants. Desenvolvido como TCC com autenticação JWT/BCrypt, RBAC, auditoria de acessos e orquestração via Docker Compose.
 
-**Arquitetura:** Java 17 + Spring Boot 3.2 · MySQL 8 · Vanilla HTML/CSS/JS · Spring Security
+**Arquitetura:** Java 17 + Spring Boot 3.2 · MariaDB 10.4 · Vanilla JS · Spring Security (Stateless) · Docker Compose
 
 **O que demonstra:**
 
-- RBAC com quatro papéis: `admin`, `owner`
-- Página de auditoria de logins (visível apenas para `admin`) com registros timestampados
-- Proteção de sessão com redirecionamento automático para `login.html`
-- Logout com modal de confirmação e invalidação segura de sessão
-- Entrega de assets estáticos sem conflito via resource handler do Spring Boot
+- **Multi-tenancy por coluna discriminadora** — `empresa_id` injetado via JWT claim, filtrado em cada query no Service/Repository sem bibliotecas externas
+- **Autenticação JWT + BCrypt** — token com claims `role` e `empresaId`; senhas com BCrypt rounds=10; fluxo stateless via `SecurityFilter`
+- **RBAC** — rotas `/api/admin/**` restritas a `ROLE_admin`; demais endpoints filtrados automaticamente por `empresaId`
+- **Auditoria de logins** — tabela `login_logs` registra toda tentativa (sucesso/falha, IP, user-agent, motivo); detecção automática de ataques com bloqueio de IP após 2+ falhas em 15 min
+- **Estoque com movimentação** — entradas/saídas com `MovimentacaoEstoque`, alertas de estoque baixo via `AlertaEstoqueDTO`
+- **Dashboard admin global** — visão consolidada de todas as empresas, faturamento e estatísticas do sistema
+- **Containerizado** — Docker Compose sobe backend + MariaDB com uma linha
 
-`Java 17` `Spring Boot 3.2` `Spring Security` `MySQL 8` `HTML` `CSS` `JavaScript` *(🔒 Repositório privado)*
+`Java 17` `Spring Boot 3.2` `Spring Security` `JWT` `BCrypt` `MariaDB 10.4` `Docker` `HTML` `CSS` `JavaScript` *(🔒 Repositório privado)*
 
 ---
 
