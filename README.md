@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1500&color=1E90FF&center=true&vCenter=true&width=800&lines=Olá%2C+sou+Roberto+Átila!;Desenvolvedor+Full-Stack;Java+%7C+PHP+%7C+JavaScript;Construindo+soluções+reais+desde+o+técnico.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1500&color=1E90FF&center=true&vCenter=true&width=800&lines=Olá%2C+sou+Roberto+Átila!;Desenvolvedor+Full-Stack;Java+%7C+PHP+%7C+JavaScript+%7C+React+Native;Construindo+soluções+reais+desde+o+técnico.)](https://git.io/typing-svg)
 
 ---
 
 ### Desenvolvedor Full-Stack | Java · PHP · JavaScript | Segurança Web & Cloud
 
-Desenvolvo aplicações web completas — de APIs REST em Spring Boot até interfaces em React — com foco em segurança (RBAC, JWT, auditoria de logins) e arquitetura real. Atualmente no 3º ano do Técnico em Informática para Internet e Desenvolvimento de Sistemas na ETEC e buscando minha primeira oportunidade de **Estágio em Desenvolvimento Full-Stack ou Backend**.
+Desenvolvo aplicações web e mobile completas — de APIs REST em Spring Boot até interfaces em React e React Native — com foco em segurança (RBAC, JWT, auditoria de logins) e arquitetura real. Atualmente no 3º ano do Técnico em **Informática para Internet** e **Desenvolvimento de Sistemas** na ETEC Jacinto Ferreira de Sá e buscando minha primeira oportunidade de **Estágio em Desenvolvimento Full-Stack ou Backend**.
 
 ---
 
@@ -35,8 +35,10 @@ Desenvolvo aplicações web completas — de APIs REST em Spring Boot até inter
 | Projeto | Descrição Técnica | Stack | Link |
 |---|---|---|---|
 | **EduGestor v3** | Gestão escolar Full-Stack com CRUD de alunos/professores, controle de notas, chamada digital, relatórios automatizados e notificações via SendGrid. Arquitetura híbrida SQLite + Supabase Cloud, foco em performance, segurança e UX. | PHP 8, React 18, TypeScript 5, Tailwind 4, SQLite, Supabase, SendGrid | [Repositório](https://github.com/robertoatila/EduGestor-v3) |
+| **Sushi & Sashimi Bar** | App mobile de pedidos de restaurante japonês desenvolvido para apresentação final da ETEC. Cardápio visual com `FlatList`, `ProductCard` reutilizável, navegação inferior por abas, acordeão de horários com destaque dinâmico para o dia atual e status ABERTO/FECHADO em tempo real. Compatível com Expo Go, Android, iOS e Web. | React Native, JavaScript, Expo, @expo/vector-icons | [Repositório](https://github.com/robertoatila/Atividade-ProjetoFinal-ExpoGo) |
 | **Portfólio Arduino** | Portfólio web imersivo estilo Maker/Cyberpunk com zero frameworks. Inclui simulador interativo de circuitos, syntax highlighter com numeração de linha (CSS Counters), boot screen de compilação autêntico e PWA instalável. Performance extrema via `IntersectionObserver` e `requestAnimationFrame`. | HTML5, CSS3, JavaScript ES6+, PWA | [Repositório](https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino) |
 | **Cartão de Visitas Digital** | App mobile de portfólio profissional em React Native com 3 telas (cartão, contatos, skills), navegação por estado global, renderização condicional e design responsivo com paleta corporativa. | React Native, JavaScript, Expo | [Repositório](https://github.com/robertoatila/Cartao-de-visitas) |
+| **Sonic e as Escadas v2.0** | Jogo de plataformas side-scrolling com 2 fases de dificuldade crescente. Robotnik com IA vetorial que rastreia o Sonic a cada frame (cálculo de ângulo por `atan2`), sistema de tiros de blaster, espinhos com ciclo de ativação, 4 vidas, timer por fase e física de pulo customizada. Construído em HTML5 Canvas puro, sem bibliotecas. | HTML5 Canvas, CSS3, JavaScript | [Repositório](https://github.com/robertoatila/Sonic-Game) |
 | **Invincible – Invasão de Marte** | Jogo de luta side-scrolling baseado na HQ Invincible, com 3 fases de dificuldade progressiva e boss final. Construído em HTML5 Canvas puro, sem bibliotecas externas. | HTML5 Canvas, JavaScript | [Repositório](https://github.com/robertoatila/invincible-game) |
 
 ---
@@ -70,6 +72,7 @@ Desenvolvo aplicações web completas — de APIs REST em Spring Boot até inter
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/robertoatila)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/robertoatila)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://github.com/robertoatila)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://github.com/robertoatila)
 
 **Infra & Cloud**
 [![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/robertoatila)
