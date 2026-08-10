@@ -1,3 +1,4 @@
+# Generates self-hosted SVG cards from the official GitHub API.
 import json
 import os
 import urllib.request
