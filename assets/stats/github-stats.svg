@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="470" height="185" viewBox="0 0 470 185" role="img" aria-label="Estatísticas públicas do GitHub de robertoatila">
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="220" viewBox="0 0 470 220" role="img" aria-label="Estatísticas públicas do GitHub de robertoatila">
+<title>Atividade pública no GitHub</title>
+<desc>Resumo de repositórios, seguidores, estrelas e forks de robertoatila.</desc>
 <style>
+  .card { fill: #0d1117; stroke: #30363d; }
   .title { font: 600 18px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #58a6ff; }
-  .label { font: 500 13px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #8b949e; }
-  .value { font: 700 22px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #c9d1d9; }
-  .foot { font: 400 11px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #8b949e; }
+  .label { font: 500 14px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #8b949e; }
+  .value { font: 700 28px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #f0f6fc; }
+  .rule { stroke: #21262d; }
 </style>
-<rect x="0.5" y="0.5" width="469" height="184" rx="10" fill="#0d1117" stroke="#30363d"/>
-<text x="24" y="34" class="title">GitHub — estatísticas públicas</text>
-<text x="24" y="72" class="label">Repositórios públicos</text><text x="24" y="99" class="value">7</text>
-<text x="145" y="72" class="label">Seguidores</text><text x="145" y="99" class="value">6</text>
-<text x="255" y="72" class="label">Estrelas recebidas</text><text x="255" y="99" class="value">3</text>
-<text x="375" y="72" class="label">Forks</text><text x="375" y="99" class="value">0</text>
-<line x1="24" y1="125" x2="446" y2="125" stroke="#21262d"/>
-<text x="24" y="151" class="foot">Gerado automaticamente via GitHub Actions usando a API oficial do GitHub.</text>
-<text x="24" y="169" class="foot">Sem dependência de servidores públicos de cards.</text>
+<rect class="card" x="0.5" y="0.5" width="469" height="219" rx="14"/>
+<text x="24" y="36" class="title">Atividade pública no GitHub</text>
+<line class="rule" x1="24" y1="55" x2="446" y2="55"/>
+<text x="24" y="85" class="label">Repositórios públicos</text><text x="24" y="118" class="value">7</text><text x="250" y="85" class="label">Seguidores</text><text x="250" y="118" class="value">6</text><text x="24" y="160" class="label">Estrelas recebidas</text><text x="24" y="193" class="value">3</text><text x="250" y="160" class="label">Forks</text><text x="250" y="193" class="value">0</text>
+<line class="rule" x1="235" y1="68" x2="235" y2="204"/>
+<line class="rule" x1="24" y1="135" x2="446" y2="135"/>
 </svg>
