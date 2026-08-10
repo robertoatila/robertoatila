@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="240" viewBox="0 0 470 240" role="img" aria-label="Linguagens dos repositórios públicos de robertoatila">
+<style>
+  .title { font: 600 18px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #58a6ff; }
+  .label { font: 500 12px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #c9d1d9; }
+  .pct { font: 500 11px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; fill: #8b949e; }
+</style>
+<rect x="0.5" y="0.5" width="469" height="239" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="34" class="title">Linguagens — repositórios públicos</text>
+<text x="24" y="68" class="label">JavaScript</text><text x="430" y="68" text-anchor="end" class="pct">24.2%</text><rect x="125" y="58" width="300" height="8" rx="4" fill="#21262d"/><rect x="125" y="58" width="72" height="8" rx="4" fill="#58a6ff"/><text x="24" y="95" class="label">TypeScript</text><text x="430" y="95" text-anchor="end" class="pct">23.2%</text><rect x="125" y="85" width="300" height="8" rx="4" fill="#21262d"/><rect x="125" y="85" width="69" height="8" rx="4" fill="#58a6ff"/><text x="24" y="122" class="label">HTML</text><text x="430" y="122" text-anchor="end" class="pct">22.7%</text><rect x="125" y="112" width="300" height="8" rx="4" fill="#21262d"/><rect x="125" y="112" width="67" height="8" rx="4" fill="#58a6ff"/><text x="24" y="149" class="label">CSS</text><text x="430" y="149" text-anchor="end" class="pct">20.8%</text><rect x="125" y="139" width="300" height="8" rx="4" fill="#21262d"/><rect x="125" y="139" width="62" height="8" rx="4" fill="#58a6ff"/><text x="24" y="176" class="label">PHP</text><text x="430" y="176" text-anchor="end" class="pct">8.4%</text><rect x="125" y="166" width="300" height="8" rx="4" fill="#21262d"/><rect x="125" y="166" width="25" height="8" rx="4" fill="#58a6ff"/><text x="24" y="203" class="label">Python</text><text x="430" y="203" text-anchor="end" class="pct">0.7%</text><rect x="125" y="193" width="300" height="8" rx="4" fill="#21262d"/><rect x="125" y="193" width="2" height="8" rx="4" fill="#58a6ff"/>
+</svg>
