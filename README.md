@@ -100,8 +100,8 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=robertoatila&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estatísticas do GitHub de Roberto Átila" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoatila&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas por Roberto Átila" />
+<img height="195" src="https://roberto-readme-stats.vercel.app/api?username=robertoatila" alt="Estatísticas do GitHub de Roberto Átila" />
+<img height="195" src="https://roberto-readme-stats.vercel.app/api/top-langs?username=robertoatila" alt="Linguagens mais usadas por Roberto Átila" />
 
 </div>
 
