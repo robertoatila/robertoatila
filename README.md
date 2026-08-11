@@ -22,9 +22,9 @@ Sou estudante da **ETEC Jacinto Ferreira de Sá**, em Ourinhos-SP, cursando os c
 
 Gosto de acompanhar o ciclo completo de um produto: entender o problema, modelar os dados, construir regras de negócio e APIs, desenvolver a interface, proteger os fluxos de acesso, testar o comportamento e preparar uma execução reproduzível.
 
-Minha experiência prática reúne **Java, Spring Boot, PHP, JavaScript, TypeScript, React, Next.js e React Native**, além de bancos de dados, Docker, Linux, Nginx e serviços de cloud. Aplico esse conhecimento em projetos acadêmicos e pessoais que vão de sistemas de gestão a aplicativos mobile, experiências web interativas e jogos.
+Minha experiência prática reúne **Java, Spring Boot, PHP, JavaScript, TypeScript, React, Next.js e React Native**, além de bancos de dados, Docker, Linux, Nginx e serviços de cloud.
 
-Atualmente, concentro a maior parte da minha evolução técnica no **MarkitosSystem**, o projeto que melhor representa minha forma de pensar sistemas completos: regras de negócio conectadas, segurança no backend, isolamento de dados, qualidade de código e execução reproduzível.
+Atualmente, concentro a maior parte da minha evolução técnica no **MarkitosSystem**, o projeto que melhor representa minha forma de pensar sistemas completos.
 
 ---
 
@@ -40,26 +40,19 @@ O **MarkitosSystem** é uma aplicação para gestão de empresas, usuários, cli
 
 </div>
 
-#### Arquitetura verificada
-
 | Camada | Tecnologias e práticas |
 | :--- | :--- |
 | **Frontend** | Next.js 15.5.21, React 19.1.0, TypeScript 5 e Tailwind CSS 4 |
 | **Backend** | Java 17, Spring Boot 3.5.16, Spring Security e Spring Data JPA |
 | **Dados** | MySQL 8 e migrations versionadas com Flyway |
-| **Qualidade e execução** | Testes de backend e frontend, Playwright, Axe e ambiente local com Docker |
+| **Qualidade e execução** | Testes de backend e frontend, Playwright, Axe e Docker |
 
-#### O que o projeto demonstra
-
-- **Segurança aplicada à arquitetura:** autenticação com JWT armazenado em cookie HttpOnly, senhas protegidas com BCrypt e autorização baseada em papéis no backend.
-- **Isolamento de dados:** operações vinculadas à empresa correta para evitar acesso indevido entre contextos.
-- **Faturamento integrado:** faturas de venda e compra conectadas às respectivas movimentações de estoque.
-- **Controle de inventário:** reserva, entrada, baixa, estorno, depósitos, lotes, Kardex e inventário.
-- **Evolução controlada do banco:** alterações de esquema versionadas com Flyway.
-- **Qualidade entre camadas:** testes de backend e frontend, testes E2E com Playwright e verificações de acessibilidade com Axe.
-- **Ambiente reproduzível:** execução local padronizada com Docker.
-
-Mais do que reunir tecnologias, o MarkitosSystem demonstra a construção de um domínio conectado, no qual autenticação, permissões, faturamento, estoque e persistência precisam funcionar como partes do mesmo produto.
+- **Segurança:** JWT em cookie HttpOnly, BCrypt e autorização baseada em papéis no backend.
+- **Isolamento de dados:** operações vinculadas à empresa correta.
+- **Faturamento integrado:** vendas e compras conectadas às movimentações de estoque.
+- **Inventário:** reserva, entrada, baixa, estorno, depósitos, lotes, Kardex e inventário.
+- **Banco versionado:** migrations com Flyway.
+- **Qualidade:** testes backend/frontend, E2E com Playwright e acessibilidade com Axe.
 
 > [!IMPORTANT]
 > O repositório principal permanece privado enquanto o projeto está em desenvolvimento.
@@ -70,7 +63,7 @@ Mais do que reunir tecnologias, o MarkitosSystem demonstra a construção de um 
 
 ### Backend e APIs
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white) ![REST](https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend e mobile
 
@@ -88,69 +81,18 @@ Mais do que reunir tecnologias, o MarkitosSystem demonstra a construção de um 
 
 ## Projetos públicos
 
-Projetos acadêmicos e pessoais que mostram diferentes partes da minha formação: sistemas completos, interfaces mobile, experiências web sem frameworks, PWA e jogos em JavaScript.
-
-### Aplicações
-
-#### [EduGestor v3](https://github.com/robertoatila/EduGestor-v3)
-
-Plataforma full-stack de gestão escolar com cadastro de alunos, lançamento de notas, controle de frequência, relatórios, autenticação e integrações externas. O projeto combina frontend em React e TypeScript com backend em PHP e SQLite, além de serviços cloud por meio do Supabase.
-
-<code>PHP 8</code> <code>React 18</code> <code>TypeScript 5</code> <code>Tailwind CSS 4</code> <code>SQLite</code> <code>Supabase</code>
-
-<a href="https://github.com/robertoatila/EduGestor-v3"><img src="https://img.shields.io/badge/ABRIR_REPOSIT%C3%93RIO-0969DA?style=flat-square&logo=github&logoColor=white" alt="Abrir repositório do EduGestor v3" /></a>
-
-#### [Sushi & Sashimi Bar](https://github.com/robertoatila/Atividade-ProjetoFinal-ExpoGo)
-
-Protótipo acadêmico mobile para um restaurante japonês. Possui cardápio com dez produtos renderizados com <code>FlatList</code>, componente reutilizável para os itens, navegação inferior, formulário de perfil, painel de horários e indicador de funcionamento calculado pelo horário do dispositivo.
-
-O projeto é intencionalmente voltado à interface e à navegação. Carrinho, pagamento e persistência de dados permanecem fora do escopo desta versão.
-
-<code>React Native</code> <code>Expo</code> <code>JavaScript</code>
-
-<a href="https://github.com/robertoatila/Atividade-ProjetoFinal-ExpoGo"><img src="https://img.shields.io/badge/ABRIR_REPOSIT%C3%93RIO-0969DA?style=flat-square&logo=github&logoColor=white" alt="Abrir repositório do Sushi e Sashimi Bar" /></a>
-
-#### [Portfólio de Projetos Arduino](https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino)
-
-Experiência web responsiva para documentar projetos e códigos Arduino, construída sem frameworks ou etapa de build. Inclui PWA, busca dinâmica, simulador interativo, visualização de códigos, syntax highlighting próprio e recursos de acessibilidade.
-
-O projeto também explora otimização de animações com <code>IntersectionObserver</code> e <code>requestAnimationFrame</code>, mantendo toda a experiência em tecnologias nativas do navegador.
-
-<code>HTML5</code> <code>CSS3</code> <code>JavaScript ES6+</code> <code>PWA</code>
-
-<a href="https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino"><img src="https://img.shields.io/badge/ABRIR_REPOSIT%C3%93RIO-0969DA?style=flat-square&logo=github&logoColor=white" alt="Abrir repositório do Portfólio de Projetos Arduino" /></a>
-
-#### [Cartão de Visitas Digital](https://github.com/robertoatila/Cartao-de-visitas)
-
-Aplicativo mobile de apresentação profissional dividido entre perfil, contatos e habilidades. Utiliza navegação baseada em estado, renderização condicional, componentes React e estilização responsiva com <code>StyleSheet</code>.
-
-<code>React Native</code> <code>JavaScript</code> <code>React Hooks</code>
-
-<a href="https://github.com/robertoatila/Cartao-de-visitas"><img src="https://img.shields.io/badge/ABRIR_REPOSIT%C3%93RIO-0969DA?style=flat-square&logo=github&logoColor=white" alt="Abrir repositório do Cartão de Visitas Digital" /></a>
-
-### Jogos
-
-#### [Sonic e as Escadas 2.0](https://github.com/robertoatila/Sonic-Game)
-
-Jogo didático de plataformas desenvolvido em coautoria com Pietro Ferreira. Reúne física de salto, temporizador, sistema de vidas, progressão de dificuldade, colisões AABB, inimigos e projéteis direcionados por vetores normalizados.
-
-<code>HTML5</code> <code>CSS3</code> <code>JavaScript Vanilla</code>
-
-<a href="https://github.com/robertoatila/Sonic-Game"><img src="https://img.shields.io/badge/ABRIR_REPOSIT%C3%93RIO-0969DA?style=flat-square&logo=github&logoColor=white" alt="Abrir repositório do Sonic e as Escadas 2.0" /></a>
-
-#### [Invincible: Invasão de Marte](https://github.com/robertoatila/invincible-game)
-
-Jogo de luta side-scrolling inspirado em Invincible, com movimentação, saltos, ataques, progressão de inimigos e boss final. Foi construído em HTML5 Canvas puro, sem bibliotecas externas.
-
-<code>HTML5 Canvas</code> <code>JavaScript</code>
-
-<a href="https://github.com/robertoatila/invincible-game"><img src="https://img.shields.io/badge/ABRIR_REPOSIT%C3%93RIO-0969DA?style=flat-square&logo=github&logoColor=white" alt="Abrir repositório do Invincible: Invasão de Marte" /></a>
+| Projeto | Destaques | Stack |
+| :--- | :--- | :--- |
+| [**EduGestor v3**](https://github.com/robertoatila/EduGestor-v3) | Gestão escolar, notas, frequência, relatórios e autenticação. | PHP · React · TypeScript · SQLite · Supabase |
+| [**Sushi & Sashimi Bar**](https://github.com/robertoatila/Atividade-ProjetoFinal-ExpoGo) | App acadêmico com cardápio, navegação, perfil e horários. | React Native · Expo · JavaScript |
+| [**Portfólio Arduino**](https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino) | Portfólio interativo com PWA, simulador e visualização de códigos. | HTML · CSS · JavaScript · PWA |
+| [**Cartão de Visitas Digital**](https://github.com/robertoatila/Cartao-de-visitas) | Aplicativo mobile de apresentação profissional. | React Native · JavaScript |
+| [**Sonic e as Escadas 2.0**](https://github.com/robertoatila/Sonic-Game) | Jogo didático de plataformas em coautoria com Pietro Ferreira. | HTML · CSS · JavaScript |
+| [**Invincible: Invasão de Marte**](https://github.com/robertoatila/invincible-game) | Jogo side-scrolling com progressão e boss final. | Canvas · JavaScript |
 
 ---
 
 ## Engenharia e segurança
-
-O MarkitosSystem é o projeto em que aplico essas práticas de forma mais integrada. Nos projetos públicos, aprofundo outros aspectos da engenharia, como componentização mobile, acessibilidade, PWA, interfaces sem frameworks e algoritmos de jogos.
 
 <div align="center">
 
@@ -164,8 +106,8 @@ O MarkitosSystem é o projeto em que aplico essas práticas de forma mais integr
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=robertoatila&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats de Roberto Átila" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=robertoatila&theme=tokyonight&hide_border=true&locale=pt_BR&mode=weekly" alt="GitHub Streak de Roberto Átila" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertoatila&theme=tokyonight" alt="Estatísticas de Roberto Átila" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertoatila&theme=tokyonight" alt="Linguagens por repositório" />
 
 <br/>
 
@@ -173,24 +115,20 @@ O MarkitosSystem é o projeto em que aplico essas práticas de forma mais integr
 
 <br/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoatila&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&card_width=450" alt="Linguagens mais usadas por Roberto Átila" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertoatila&theme=tokyonight" alt="Linguagens mais usadas nos commits" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertoatila&theme=tokyonight&utcOffset=-3" alt="Horários de contribuição" />
 
 </div>
-
-> [!NOTE]
-> Os cards mostram atividade do GitHub e podem sofrer limitações temporárias dos serviços externos. Para avaliar meu trabalho, os projetos e o código continuam sendo a referência principal.
 
 ---
 
 ## Atualmente e próximos objetivos
 
-- Evoluir a arquitetura, os fluxos de faturamento e o controle de estoque do **MarkitosSystem**.
-- Aprofundar conhecimentos em **Java, Spring Boot, Next.js e TypeScript**.
+- Evoluir o **MarkitosSystem**.
+- Aprofundar **Java, Spring Boot, Next.js e TypeScript**.
 - Amadurecer práticas de segurança, testes, acessibilidade e qualidade de código.
-- Ampliar minha experiência com **Linux, Docker, cloud e arquitetura de aplicações**.
-- Transformar projetos acadêmicos em entregas cada vez mais completas, documentadas e demonstráveis.
-
-Como próximo passo acadêmico, pretendo aprofundar **Segurança da Informação** na Fatec, conectando esse estudo à experiência prática que venho construindo em backend, segurança de aplicações e infraestrutura.
+- Ampliar experiência com **Linux, Docker, AWS, Nginx, cloud e arquitetura**.
+- Aprofundar **Segurança da Informação** academicamente na Fatec.
 
 ---
 
@@ -198,9 +136,7 @@ Como próximo passo acadêmico, pretendo aprofundar **Segurança da Informação
 
 <div align="center">
 
-<p>Se algum projeto despertou seu interesse, podemos conversar sobre decisões técnicas, aprendizados e colaboração em software.</p>
-
-<a href="https://www.linkedin.com/in/roberto-%C3%A1tila-almeida-azevedo-0a64412b4/"><img src="https://img.shields.io/badge/LinkedIn-Roberto_%C3%81tila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de Roberto Átila no LinkedIn" /></a> <a href="mailto:roberto.atila10@gmail.com"><img src="https://img.shields.io/badge/Gmail-Enviar_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email para Roberto Átila" /></a> <a href="https://github.com/robertoatila"><img src="https://img.shields.io/badge/GitHub-robertoatila-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de Roberto Átila no GitHub" /></a>
+<a href="https://www.linkedin.com/in/roberto-%C3%A1tila-almeida-azevedo-0a64412b4/"><img src="https://img.shields.io/badge/LinkedIn-Roberto_%C3%81tila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:roberto.atila10@gmail.com"><img src="https://img.shields.io/badge/Gmail-Enviar_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/robertoatila"><img src="https://img.shields.io/badge/GitHub-robertoatila-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,52:1F6FEB,100:58A6FF&section=footer" alt="" />
 
