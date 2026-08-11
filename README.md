@@ -2,9 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,52:1F6FEB,100:58A6FF&section=header&text=%40robertoatila&fontSize=42&fontColor=F0F6FC&fontAlignY=38" alt="Banner do perfil @robertoatila" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,52:1F6FEB,100:58A6FF&section=header&text=%40robertoatila&fontSize=42&fontColor=F0F6FC&fontAlignY=36&animation=fadeIn" alt="Banner do perfil @robertoatila" />
 
 <h1>Roberto Átila</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Full-Stack+Developer+%E2%80%A2+Backend+%E2%80%A2+Cloud+%E2%80%A2+Security;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;AWS+%E2%80%A2+Linux+%E2%80%A2+Nginx+%E2%80%A2+Docker;Construindo+solu%C3%A7%C3%B5es+reais%2C+uma+linha+por+vez.)](https://git.io/typing-svg)
 
 ![Full-stack](https://img.shields.io/badge/FULL--STACK-1F6FEB?style=for-the-badge&logoColor=white) ![Backend](https://img.shields.io/badge/BACKEND-238636?style=for-the-badge&logoColor=white) ![Cloud](https://img.shields.io/badge/CLOUD-0969DA?style=for-the-badge&logoColor=white) ![Segurança](https://img.shields.io/badge/SEGURAN%C3%87A-8250DF?style=for-the-badge&logoColor=white)
 
@@ -158,18 +160,25 @@ O MarkitosSystem é o projeto em que aplico essas práticas de forma mais integr
 
 ---
 
-## GitHub em dados
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertoatila&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=1F6FEB&chart_color=58A6FF&animation=load&duration=3" alt="Estatísticas públicas de Roberto Átila no GitHub" /> <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertoatila&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=1F6FEB&chart_color=58A6FF&animation=load&duration=3" alt="Linguagens presentes nos repositórios públicos" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=robertoatila&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats de Roberto Átila" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=robertoatila&theme=tokyonight&hide_border=true&locale=pt_BR&mode=weekly" alt="GitHub Streak de Roberto Átila" />
 
-<img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertoatila&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=1F6FEB&chart_color=58A6FF&animation=load&duration=3" alt="Linguagens mais utilizadas nos commits públicos" /> <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertoatila&theme=github_dark&utcOffset=-3&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=1F6FEB&chart_color=58A6FF&animation=load&duration=3" alt="Distribuição dos horários de contribuição pública" />
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=robertoatila&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%A3o" alt="Gráfico de atividade de Roberto Átila" />
+
+<br/>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoatila&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&card_width=450" alt="Linguagens mais usadas por Roberto Átila" />
 
 </div>
 
-> [!TIP]
-> Os cards representam somente a atividade pública do GitHub. Eles complementam o portfólio, mas não substituem a análise dos projetos, decisões técnicas e evolução do código.
+> [!NOTE]
+> Os cards mostram atividade do GitHub e podem sofrer limitações temporárias dos serviços externos. Para avaliar meu trabalho, os projetos e o código continuam sendo a referência principal.
 
 ---
 
@@ -193,6 +202,6 @@ Como próximo passo acadêmico, pretendo aprofundar **Segurança da Informação
 
 <a href="https://www.linkedin.com/in/roberto-%C3%A1tila-almeida-azevedo-0a64412b4/"><img src="https://img.shields.io/badge/LinkedIn-Roberto_%C3%81tila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de Roberto Átila no LinkedIn" /></a> <a href="mailto:roberto.atila10@gmail.com"><img src="https://img.shields.io/badge/Gmail-Enviar_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email para Roberto Átila" /></a> <a href="https://github.com/robertoatila"><img src="https://img.shields.io/badge/GitHub-robertoatila-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de Roberto Átila no GitHub" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,52:1F6FEB,100:58A6FF&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,52:1F6FEB,100:58A6FF&section=footer" alt="" />
 
 </div>
