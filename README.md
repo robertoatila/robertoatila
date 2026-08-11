@@ -27,7 +27,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante da **ETEC Jacinto Ferreira de Sá**, em Ourinhos-SP, cursando os cursos técnicos de **Informática para Internet** e **Desenvolvimento de Sistemas**. Desenvolvo aplicações web e mobile com maior interesse em **backend, arquitetura de software, cloud, infraestrutura e segurança de aplicações**.
 
@@ -38,19 +38,19 @@ Minha experiência prática reúne **Java, Spring Boot, PHP, JavaScript, TypeScr
 Atualmente, concentro a maior parte da minha evolução técnica no **MarkitosSystem**, projeto que melhor representa minha forma de pensar sistemas completos: regras de negócio conectadas, segurança no backend, isolamento de dados, qualidade de código, banco versionado e execução reproduzível.
 
 ```text
-🎓 Formação       Informática para Internet + Desenvolvimento de Sistemas
-🧩 Foco           Full-Stack • Backend • APIs • Cloud • Infraestrutura
-☁️ Infra          AWS • Linux • Nginx • Docker
-🔐 Segurança      Segurança Web • Spring Security • JWT • RBAC
-🚀 Projeto atual  MarkitosSystem
-📚 Próximo passo  Aprofundar Segurança da Informação academicamente na Fatec
+Formação       Informática para Internet + Desenvolvimento de Sistemas
+Foco           Full-Stack • Backend • APIs • Cloud • Infraestrutura
+Infra          AWS • Linux • Nginx • Docker
+Segurança      Segurança Web • Spring Security • JWT • RBAC
+Projeto atual  MarkitosSystem
+Próximo passo  Aprofundar Segurança da Informação academicamente na Fatec
 ```
 
 ---
 
-## ✨ Projeto principal
+## Projeto principal
 
-### 🧾 MarkitosSystem — faturamento e estoque em uma arquitetura full-stack
+### MarkitosSystem — faturamento e estoque em uma arquitetura full-stack
 
 O **MarkitosSystem** é uma aplicação para gestão de **empresas, usuários, clientes, fornecedores, produtos, faturas, movimentações e estoque**. O sistema conecta faturamento e controle de inventário para que operações de venda e compra produzam efeitos coerentes sobre reservas, entradas, baixas e estornos.
 
@@ -65,7 +65,7 @@ O **MarkitosSystem** é uma aplicação para gestão de **empresas, usuários, c
 
 </div>
 
-### 🏗️ Arquitetura atual
+### Arquitetura atual
 
 | Camada | Tecnologias e práticas |
 | :--- | :--- |
@@ -75,7 +75,7 @@ O **MarkitosSystem** é uma aplicação para gestão de **empresas, usuários, c
 | **Qualidade** | Testes backend/frontend · Playwright · Axe |
 | **Execução** | Docker · configuração reproduzível de ambiente |
 
-### 🔐 Segurança e isolamento
+### Segurança e isolamento
 
 - autenticação com **JWT armazenado em cookie HttpOnly**;
 - senhas protegidas com **BCrypt**;
@@ -83,7 +83,7 @@ O **MarkitosSystem** é uma aplicação para gestão de **empresas, usuários, c
 - isolamento de dados por empresa;
 - regras de acesso aplicadas no servidor e não apenas na interface.
 
-### 📦 Faturamento e estoque
+### Faturamento e estoque
 
 - faturas de venda e compra conectadas ao estoque;
 - reserva, entrada, baixa e estorno;
@@ -92,7 +92,7 @@ O **MarkitosSystem** é uma aplicação para gestão de **empresas, usuários, c
 - inventário;
 - operações integradas para manter faturamento e estoque coerentes.
 
-### 🧪 Qualidade e evolução
+### Qualidade e evolução
 
 - migrations versionadas com **Flyway**;
 - testes de backend e frontend;
@@ -107,7 +107,7 @@ Mais do que reunir tecnologias, o MarkitosSystem é onde aplico arquitetura de d
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -152,11 +152,11 @@ Mais do que reunir tecnologias, o MarkitosSystem é onde aplico arquitetura de d
 
 ---
 
-## 🧩 Projetos públicos
+## Projetos públicos
 
 Projetos acadêmicos e pessoais que mostram diferentes partes da minha formação: sistemas completos, interfaces mobile, experiências web sem frameworks, PWA e jogos em JavaScript.
 
-### 🏫 [EduGestor v3](https://github.com/robertoatila/EduGestor-v3)
+### [EduGestor v3](https://github.com/robertoatila/EduGestor-v3)
 
 Plataforma full-stack de gestão escolar com cadastro de alunos, lançamento de notas, controle de frequência, relatórios, autenticação e integrações externas. O projeto combina frontend em React e TypeScript com backend em PHP e SQLite, além de serviços cloud por meio do Supabase.
 
@@ -164,7 +164,7 @@ Plataforma full-stack de gestão escolar com cadastro de alunos, lançamento de 
 
 <a href="https://github.com/robertoatila/EduGestor-v3"><img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Abrir EduGestor v3" /></a>
 
-### 🍣 [Sushi & Sashimi Bar](https://github.com/robertoatila/Atividade-ProjetoFinal-ExpoGo)
+### [Sushi & Sashimi Bar](https://github.com/robertoatila/Atividade-ProjetoFinal-ExpoGo)
 
 Protótipo acadêmico mobile para restaurante japonês. Possui cardápio com dez produtos renderizados com `FlatList`, componente reutilizável para os itens, navegação inferior, formulário de perfil, painel de horários e indicador de funcionamento calculado pelo horário do dispositivo.
 
@@ -174,7 +174,7 @@ O projeto é voltado à interface e navegação; carrinho, pagamento e persistê
 
 <a href="https://github.com/robertoatila/Atividade-ProjetoFinal-ExpoGo"><img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-8250DF?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Sushi e Sashimi Bar" /></a>
 
-### 🤖 [Portfólio de Projetos Arduino](https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino)
+### [Portfólio de Projetos Arduino](https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino)
 
 Experiência web responsiva para documentar projetos e códigos Arduino, construída sem frameworks ou etapa de build. Inclui PWA, busca dinâmica, simulador interativo, visualização de códigos, syntax highlighting próprio e recursos de acessibilidade.
 
@@ -184,7 +184,7 @@ O projeto também explora otimização de animações com `IntersectionObserver`
 
 <a href="https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino"><img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-238636?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Portfólio Arduino" /></a>
 
-### 📇 [Cartão de Visitas Digital](https://github.com/robertoatila/Cartao-de-visitas)
+### [Cartão de Visitas Digital](https://github.com/robertoatila/Cartao-de-visitas)
 
 Aplicativo mobile de apresentação profissional dividido entre perfil, contatos e habilidades. Utiliza navegação baseada em estado, renderização condicional, componentes React e estilização responsiva com `StyleSheet`.
 
@@ -192,7 +192,7 @@ Aplicativo mobile de apresentação profissional dividido entre perfil, contatos
 
 <a href="https://github.com/robertoatila/Cartao-de-visitas"><img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-D29922?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Cartão de Visitas Digital" /></a>
 
-### 🌀 [Sonic e as Escadas 2.0](https://github.com/robertoatila/Sonic-Game)
+### [Sonic e as Escadas 2.0](https://github.com/robertoatila/Sonic-Game)
 
 Jogo didático de plataformas desenvolvido em coautoria com Pietro Ferreira. Reúne física de salto, temporizador, sistema de vidas, progressão de dificuldade, colisões AABB, inimigos e projéteis direcionados por vetores normalizados.
 
@@ -200,7 +200,7 @@ Jogo didático de plataformas desenvolvido em coautoria com Pietro Ferreira. Re�
 
 <a href="https://github.com/robertoatila/Sonic-Game"><img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Sonic e as Escadas 2.0" /></a>
 
-### ☄️ [Invincible: Invasão de Marte](https://github.com/robertoatila/invincible-game)
+### [Invincible: Invasão de Marte](https://github.com/robertoatila/invincible-game)
 
 Jogo de luta side-scrolling inspirado em Invincible, com movimentação, saltos, ataques, progressão de inimigos e boss final. Foi construído em HTML5 Canvas puro, sem bibliotecas externas.
 
@@ -210,7 +210,7 @@ Jogo de luta side-scrolling inspirado em Invincible, com movimentação, saltos,
 
 ---
 
-## 🔐 Engenharia, Cloud & Segurança
+## Engenharia, Cloud & Segurança
 
 O **MarkitosSystem** é o projeto em que aplico essas práticas de forma mais integrada. Nos projetos públicos, aprofundo outros aspectos da engenharia, como componentização mobile, acessibilidade, PWA, interfaces sem frameworks e algoritmos de jogos.
 
@@ -224,11 +224,11 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-### ✦ Visão geral
+### Visão geral
 
 <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertoatila&theme=tokyonight" alt="Detalhes do perfil GitHub de Roberto Átila" />
 
@@ -239,20 +239,20 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 <br/>
 
-### ✦ Atividade de contribuição
+### Atividade de contribuição
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=robertoatila&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&radius=8&custom_title=Atividade%20de%20Contribui%C3%A7%C3%A3o" alt="Gráfico de atividade de Roberto Átila" />
 
 <br/>
 
-### ✦ Linguagens & ritmo
+### Linguagens & ritmo
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertoatila&theme=tokyonight" alt="Linguagens mais usadas nos commits" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertoatila&theme=tokyonight&utcOffset=-3" alt="Horários de contribuição" />
 
 <br/>
 
-### ✦ Destaques
+### Destaques
 
 <img width="76%" src="https://github-profile-trophy.vercel.app/?username=robertoatila&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="Troféus do GitHub de Roberto Átila" />
 
@@ -260,7 +260,7 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 ---
 
-## 🌱 Atualmente & próximos objetivos
+## Atualmente & próximos objetivos
 
 - evoluir a arquitetura, os fluxos de faturamento e o controle de estoque do **MarkitosSystem**;
 - aprofundar conhecimentos em **Java, Spring Boot, Next.js e TypeScript**;
@@ -271,7 +271,7 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 ---
 
-## 📬 Vamos conectar?
+## Vamos conectar?
 
 <div align="center">
 
