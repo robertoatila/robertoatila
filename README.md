@@ -1,29 +1,53 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1500&color=1E90FF&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+sou+Roberto+%C3%81tila!;Desenvolvedor+Full-Stack;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;AWS+%7C+Linux+%7C+Nginx+%7C+Docker;Construindo+solu%C3%A7%C3%B5es+reais+desde+o+t%C3%A9cnico.)](https://git.io/typing-svg)
+<!-- markdownlint-disable MD013 MD033 MD041 -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:161B22,68:1F6FEB,100:8250DF&section=header&text=Roberto%20%C3%81tila&fontSize=50&fontColor=F0F6FC&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20Security&descSize=17&descAlignY=56&animation=fadeIn" alt="Roberto Átila" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=1100&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;TypeScript+%7C+PHP+%7C+React+Native+%7C+Expo;AWS+%7C+Linux+%7C+Nginx+%7C+Docker;Backend+%7C+Cloud+%7C+Seguran%C3%A7a+%7C+Arquitetura;Construindo+solu%C3%A7%C3%B5es+reais+desde+o+t%C3%A9cnico.)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://github.com/robertoatila"><img src="https://img.shields.io/badge/GitHub-robertoatila-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/roberto-%C3%A1tila-almeida-azevedo-0a64412b4/"><img src="https://img.shields.io/badge/LinkedIn-Roberto_Átila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:roberto.atila10@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+</div>
 
 ---
 
-### Desenvolvedor Full-Stack | Java · Spring Boot · React · Next.js · TypeScript | Segurança Web & Cloud
+## Sobre mim
 
-Desenvolvo aplicações web e mobile completas — de APIs REST em Spring Boot até interfaces em React, Next.js e React Native — com foco em segurança, arquitetura, integração entre sistemas, cloud e infraestrutura. Sou estudante da **ETEC Jacinto Ferreira de Sá**, em Ourinhos-SP, nos cursos técnicos de **Informática para Internet** e **Desenvolvimento de Sistemas**, e continuo aprofundando minha formação técnica com projetos completos de software.
+Desenvolvo aplicações web e mobile completas, de APIs REST em Spring Boot até interfaces em React, Next.js e React Native, com foco em **backend, arquitetura, segurança, cloud e infraestrutura**.
 
-Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofundar essa área academicamente na **Fatec**, conectando o estudo à experiência prática que já venho construindo com backend, segurança de aplicações, Linux, AWS e infraestrutura.
+Sou estudante da **ETEC Jacinto Ferreira de Sá**, em Ourinhos-SP, nos cursos técnicos de **Informática para Internet** e **Desenvolvimento de Sistemas**. Meu trabalho prático envolve Java, Spring Boot, PHP, JavaScript, TypeScript, React, Next.js, React Native, bancos de dados, Docker, Linux, Nginx e AWS.
+
+Atualmente concentro a maior parte da minha evolução técnica no **MarkitosSystem**, projeto em que conecto regras de negócio, autenticação, autorização, faturamento, estoque, persistência, testes e infraestrutura no mesmo produto.
+
+Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofundar a área academicamente na **Fatec**, mantendo o vínculo com segurança de aplicações, backend, Linux, cloud e infraestrutura.
 
 ---
 
-### Projeto CORE
+## Projeto CORE
 
-#### MarkitosSystem — Sistema de Faturamento e Estoque Full-Stack
+### MarkitosSystem — Sistema de Faturamento e Estoque Full-Stack
 
 > Sistema para gestão de empresas, usuários, clientes, fornecedores, produtos, faturamento e estoque. O projeto integra frontend em Next.js, backend em Spring Boot, autenticação segura, autorização baseada em papéis, isolamento de dados por empresa, banco versionado e execução reproduzível com Docker.
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,java,spring,mysql,docker&theme=dark" alt="Stack principal do MarkitosSystem" />
+
+</div>
+
 **Arquitetura atual:** Next.js 15.5.21 · React 19.1.0 · TypeScript 5 · Tailwind CSS 4 · Java 17 · Spring Boot 3.5.16 · Spring Security · Spring Data JPA · MySQL 8 · Flyway · Docker
 
-**O que demonstra:**
+**O que o projeto demonstra:**
 
 - **Isolamento por empresa** — dados e operações vinculados ao contexto correto da empresa no backend.
-- **Autenticação JWT + BCrypt** — autenticação com JWT armazenado em cookie HttpOnly e senhas protegidas com BCrypt.
+- **Autenticação JWT + BCrypt** — JWT armazenado em cookie HttpOnly e senhas protegidas com BCrypt.
 - **RBAC server-side** — autorização baseada em papéis aplicada no backend, não apenas na interface.
-- **Faturamento integrado ao estoque** — vendas e compras produzem efeitos coerentes sobre reservas, entradas, baixas e estornos.
+- **Faturamento integrado ao estoque** — vendas e compras conectadas a reservas, entradas, baixas e estornos.
 - **Controle de inventário** — depósitos, lotes, Kardex, inventário e histórico de movimentações.
 - **Banco versionado** — migrations controladas com Flyway.
 - **Qualidade** — testes de backend e frontend, E2E com Playwright e verificações de acessibilidade com Axe.
@@ -33,60 +57,83 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 ---
 
-### Projetos Públicos
-
-| Projeto | Descrição Técnica | Stack | Link |
-|---|---|---|---|
-| **EduGestor v3** | Plataforma de gestão escolar com alunos, notas, frequência, relatórios, autenticação e integrações externas. Combina frontend em React/TypeScript com backend em PHP, SQLite e serviços via Supabase. | PHP 8, React 18, TypeScript 5, Tailwind 4, SQLite, Supabase | [Repositório](https://github.com/robertoatila/EduGestor-v3) |
-| **Sushi & Sashimi Bar** | Protótipo acadêmico mobile para restaurante japonês, com cardápio em `FlatList`, componentes reutilizáveis, navegação inferior, perfil, painel de horários e status de funcionamento calculado pelo horário do dispositivo. | React Native, JavaScript, Expo | [Repositório](https://github.com/robertoatila/Atividade-ProjetoFinal-ExpoGo) |
-| **Portfólio Arduino** | Portfólio web interativo sem frameworks, com PWA, busca dinâmica, simulador, visualização de códigos, syntax highlighting próprio, animações otimizadas e recursos de acessibilidade. | HTML5, CSS3, JavaScript ES6+, PWA | [Repositório](https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino) |
-| **Cartão de Visitas Digital** | Aplicativo mobile de apresentação profissional com áreas de perfil, contatos e habilidades, navegação baseada em estado e renderização condicional. | React Native, JavaScript | [Repositório](https://github.com/robertoatila/Cartao-de-visitas) |
-| **Sonic e as Escadas 2.0** | Jogo didático de plataformas desenvolvido em coautoria com Pietro Ferreira, com três fases, física de pulo, colisões, vidas, temporizador e inimigo com disparos direcionais. | HTML5, CSS3, JavaScript | [Repositório](https://github.com/robertoatila/Sonic-Game) |
-| **Invincible – Invasão de Marte** | Jogo de luta side-scrolling com três fases de dificuldade progressiva e boss final, construído em HTML5 Canvas sem bibliotecas externas. | HTML5 Canvas, JavaScript | [Repositório](https://github.com/robertoatila/invincible-game) |
-
----
-
 ## Stack
 
-**Backend & APIs**
-[![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/robertoatila)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/robertoatila)
-[![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)](https://github.com/robertoatila)
-[![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/robertoatila)
-[![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)](https://github.com/robertoatila)
+<div align="center">
 
-**Frontend & Mobile**
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/robertoatila)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/robertoatila)
-[![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/robertoatila)
-[![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/robertoatila)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/robertoatila)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://github.com/robertoatila)
-[![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://github.com/robertoatila)
+### Backend & APIs
 
-**Dados**
-[![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/robertoatila)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/robertoatila)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/robertoatila)
-[![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)](https://github.com/robertoatila)
+<img src="https://skillicons.dev/icons?i=java,spring,php&theme=dark" alt="Backend" />
 
-**Infra & Cloud**
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)](https://github.com/robertoatila)
-[![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=FCC624)](https://github.com/robertoatila)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://github.com/robertoatila)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/robertoatila)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/robertoatila)
+### Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
+
+### Dados, Cloud & Infra
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,aws,linux,nginx,docker,git,github&theme=dark" alt="Dados, cloud e infraestrutura" />
+
+</div>
 
 ---
 
-## Áreas de aprofundamento
+## Projetos Públicos
 
-`Full-Stack` · `Backend` · `APIs REST` · `Spring Security` · `JWT` · `RBAC` · `Segurança Web` · `Segurança da Informação` · `AWS` · `Linux` · `Nginx` · `Docker` · `Cloud Architecture` · `Banco de Dados` · `Testes`
+| Projeto | Descrição Técnica | Stack |
+|---|---|---|
+| **[EduGestor v3](https://github.com/robertoatila/EduGestor-v3)** | Plataforma de gestão escolar com alunos, notas, frequência, relatórios, autenticação e integrações externas. | PHP 8 · React 18 · TypeScript 5 · Tailwind 4 · SQLite · Supabase |
+| **[Sushi & Sashimi Bar](https://github.com/robertoatila/Atividade-ProjetoFinal-ExpoGo)** | Protótipo acadêmico mobile com cardápio, componentes reutilizáveis, navegação, perfil, horários e status de funcionamento. | React Native · JavaScript · Expo |
+| **[Portfólio Arduino](https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino)** | Portfólio web interativo sem frameworks, com PWA, simulador, busca, visualização de códigos e animações otimizadas. | HTML5 · CSS3 · JavaScript ES6+ · PWA |
+| **[Cartão de Visitas Digital](https://github.com/robertoatila/Cartao-de-visitas)** | Aplicativo mobile de apresentação profissional com áreas de perfil, contatos e habilidades. | React Native · JavaScript |
+| **[Sonic e as Escadas 2.0](https://github.com/robertoatila/Sonic-Game)** | Jogo didático de plataformas em coautoria com Pietro Ferreira, com três fases, física, vidas, colisões e inimigos. | HTML5 · CSS3 · JavaScript |
+| **[Invincible – Invasão de Marte](https://github.com/robertoatila/invincible-game)** | Jogo de luta side-scrolling com três fases de dificuldade progressiva e boss final. | HTML5 Canvas · JavaScript |
+
+---
+
+## GitHub Metrics
+
+<div align="center">
+
+<img width="92%" src="https://metrics.lecoq.io/robertoatila?template=classic&config.timezone=America%2FSao_Paulo&config.display=large&config.animations=yes&config.base=header%2Ccommunity%2Crepositories%2Cmetadata&plugin_languages=yes&plugin_languages_limit=8&plugin_languages_sections=most-used&plugin_languages_details=percentage&plugin_repositories=yes&plugin_repositories_featured=robertoatila%2FEduGestor-v3%2Crobertoatila%2FPortf-lios-de-Projetos-Arduino%2Crobertoatila%2FAtividade-ProjetoFinal-ExpoGo" alt="GitHub Metrics de Roberto Átila" />
+
+<br/><br/>
+
+<img width="88%" src="https://github-profile-trophy.vercel.app/?username=robertoatila&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="Destaques do GitHub" />
+
+</div>
+
+---
+
+## Engenharia, Cloud & Segurança
+
+<div align="center">
+
+![REST](https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+`RBAC` · `BCrypt` · `Cookies HttpOnly` · `Segurança Web` · `Flyway` · `Banco de Dados` · `Testes` · `Playwright` · `Acessibilidade` · `Cloud Architecture`
 
 ---
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-%C3%A1tila-almeida-azevedo-0a64412b4/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/robertoatila)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roberto.atila10@gmail.com)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/roberto-%C3%A1tila-almeida-azevedo-0a64412b4/"><img src="https://img.shields.io/badge/LinkedIn-Roberto_Átila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:roberto.atila10@gmail.com"><img src="https://img.shields.io/badge/Gmail-roberto.atila10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/robertoatila"><img src="https://img.shields.io/badge/GitHub-robertoatila-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=8B949E&center=true&vCenter=true&width=650&lines=backend+%7C+cloud+%7C+security+%7C+full-stack;building+%7C+learning+%7C+improving)](https://git.io/typing-svg)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,35:161B22,68:1F6FEB,100:8250DF&section=footer&animation=fadeIn" alt="" />
+
+</div>
