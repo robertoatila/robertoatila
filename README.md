@@ -50,14 +50,17 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robertoatila&theme=radical&locale=pt_BR)](https://git.io/streak-stats)
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=robertoatila&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=robertoatila&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=robertoatila&theme=radical&locale=pt_BR&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=robertoatila&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area=true&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%A3o" alt="Gráfico de atividade" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertoatila&theme=radical" alt="Estatísticas de Roberto Átila" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertoatila&theme=radical" alt="Linguagens por repositório" />
+
+<br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertoatila&theme=radical" alt="Linguagens mais usadas nos commits" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertoatila&theme=radical&utcOffset=-3" alt="Horários de contribuição" />
 
 </div>
 
