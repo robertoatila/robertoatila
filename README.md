@@ -46,26 +46,6 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=robertoatila&theme=radical&locale=pt_BR&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertoatila&theme=radical" alt="Estatísticas de Roberto Átila" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertoatila&theme=radical" alt="Linguagens por repositório" />
-
-<br/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertoatila&theme=radical" alt="Linguagens mais usadas nos commits" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertoatila&theme=radical&utcOffset=-3" alt="Horários de contribuição" />
-
-</div>
-
----
-
 ## Stack
 
 **Backend & APIs**
