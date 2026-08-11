@@ -90,15 +90,18 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 ---
 
-## GitHub Metrics
+## Estatísticas
 
 <div align="center">
 
-<img width="92%" src="https://metrics.lecoq.io/robertoatila?template=classic&config.timezone=America%2FSao_Paulo&config.display=large&config.animations=yes&config.base=header%2Ccommunity%2Crepositories%2Cmetadata&plugin_languages=yes&plugin_languages_limit=8&plugin_languages_sections=most-used&plugin_languages_details=percentage&plugin_repositories=yes&plugin_repositories_featured=robertoatila%2FEduGestor-v3%2Crobertoatila%2FPortf-lios-de-Projetos-Arduino%2Crobertoatila%2FAtividade-ProjetoFinal-ExpoGo" alt="GitHub Metrics de Roberto Átila" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=robertoatila&theme=radical&locale=pt_BR&hide_border=true" alt="GitHub Streak" />
+</a>
 
 <br/><br/>
 
-<img width="88%" src="https://github-profile-trophy.vercel.app/?username=robertoatila&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="Destaques do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=robertoatila&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estatísticas do GitHub de Roberto Átila" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoatila&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas por Roberto Átila" />
 
 </div>
 
