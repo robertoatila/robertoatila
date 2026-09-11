@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:161B22,68:1F6FEB,100:8250DF&section=header&text=Roberto%20%C3%81tila&fontSize=50&fontColor=F0F6FC&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20Security&descSize=17&descAlignY=56&animation=fadeIn" alt="Roberto Átila" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,18:162FA3,48:B10302,76:FFC525,100:0D1117&section=header&text=Roberto%20%C3%81tila&fontSize=50&fontColor=FFF7D6&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20Architecture%20%E2%80%A2%20AI%20Agents&descSize=17&descAlignY=56&animation=fadeIn" alt="Roberto Átila" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=1100&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;TypeScript+%7C+PHP+%7C+React+Native+%7C+Expo;AWS+%7C+Linux+%7C+Nginx+%7C+Docker;Backend+%7C+Cloud+%7C+Seguran%C3%A7a+%7C+Arquitetura;Construindo+solu%C3%A7%C3%B5es+reais+desde+o+t%C3%A9cnico.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=1100&color=FFC525&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+Next.js+%7C+React;Python+%7C+TypeScript+%7C+React+Native+%7C+Expo;Docker+%7C+Linux+%7C+AWS+%7C+Supabase;Backend+%7C+Arquitetura+%7C+Seguran%C3%A7a+%7C+IA;Construindo+sistemas+que+saem+do+prompt+e+viram+produto.)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://github.com/robertoatila"><img src="https://img.shields.io/badge/GitHub-robertoatila-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/roberto-%C3%A1tila-almeida-azevedo-0a64412b4/"><img src="https://img.shields.io/badge/LinkedIn-Roberto_Átila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:roberto.atila10@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/robertoatila"><img src="https://img.shields.io/badge/GitHub-robertoatila-162FA3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/roberto-%C3%A1tila-almeida-azevedo-0a64412b4/"><img src="https://img.shields.io/badge/LinkedIn-Roberto_Átila-B10302?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:roberto.atila10@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contato-FFC525?style=for-the-badge&logo=gmail&logoColor=111111" alt="Gmail" /></a>
 
 </div>
 
@@ -18,21 +18,35 @@
 
 ## Sobre mim
 
-Desenvolvo aplicações web e mobile completas, de APIs REST em Spring Boot até interfaces em React, Next.js e React Native, com foco em **backend, arquitetura, segurança, cloud e infraestrutura**.
+Sou desenvolvedor **full-stack**, com foco predominante em **backend, arquitetura, integrações, infraestrutura, segurança de aplicações e sistemas agentic**.
 
-Sou estudante da **ETEC Jacinto Ferreira de Sá**, em Ourinhos-SP, nos cursos técnicos de **Informática para Internet** e **Desenvolvimento de Sistemas**. Meu trabalho prático envolve Java, Spring Boot, PHP, JavaScript, TypeScript, React, Next.js, React Native, bancos de dados, Docker, Linux, Nginx e AWS.
+Atualmente curso o **3º módulo de Informática para Internet** na **ETEC Jacinto Ferreira de Sá**, em Ourinhos-SP. Trabalho principalmente com Java, Spring Boot, Python, JavaScript, TypeScript, React, Next.js, React Native, bancos de dados, Docker e Linux.
 
-Atualmente concentro a maior parte da minha evolução técnica no **MarkitosSystem**, projeto em que conecto regras de negócio, autenticação, autorização, faturamento, estoque, persistência, testes e infraestrutura no mesmo produto.
+Meus dois focos técnicos atuais são o **MarkitosSystem**, um sistema full-stack de faturamento e estoque, e o **J.A.R.V.I.S. Skill Registry**, um projeto de infraestrutura para agentes autônomos, seleção de ferramentas, execução verificável, economia de contexto e memória persistente.
 
-Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofundar a área academicamente na **Fatec**, mantendo o vínculo com segurança de aplicações, backend, Linux, cloud e infraestrutura.
+Tenho interesse contínuo em **engenharia de software, backend, IA aplicada, Segurança da Informação, cloud e infraestrutura**.
 
 ---
 
-## Projeto CORE
+## Em desenvolvimento agora
 
-### MarkitosSystem — Sistema de Faturamento e Estoque Full-Stack
+### J.A.R.V.I.S. // Skill Registry
 
-> Sistema para gestão de empresas, usuários, clientes, fornecedores, produtos, faturamento e estoque. O projeto integra frontend em Next.js, backend em Spring Boot, autenticação segura, autorização baseada em papéis, isolamento de dados por empresa, banco versionado e execução reproduzível com Docker.
+> Engine autônoma multiagente e registry de skills voltado a seleção contextual de ferramentas, progressive disclosure, execução verificável, eficiência de tokens, memória persistente e evolução do runtime.
+
+<div align="center">
+
+<a href="https://github.com/robertoatila/jarvis-skill-registry">
+  <img src="https://img.shields.io/badge/J.A.R.V.I.S.-Skill_Registry-FFC525?style=for-the-badge&logo=python&logoColor=111111" alt="J.A.R.V.I.S. Skill Registry" />
+</a>
+
+</div>
+
+`Python 3.12+` · `Multi-Agent Runtime` · `Skill Registry` · `Progressive Disclosure` · `Tool Routing` · `Verification` · `Obsidian Memory` · `SHA-256 / Merkle`
+
+### MarkitosSystem — Faturamento e Estoque
+
+> Aplicação full-stack para empresas, usuários, clientes, fornecedores, produtos, faturamento e estoque, com regras de negócio centralizadas no backend e integração entre faturas, reservas, baixas, entradas e estornos de inventário.
 
 <div align="center">
 
@@ -40,20 +54,9 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 </div>
 
-**Arquitetura atual:** Next.js 15.5.21 · React 19.1.0 · TypeScript 5 · Tailwind CSS 4 · Java 17 · Spring Boot 3.5.16 · Spring Security · Spring Data JPA · MySQL 8 · Flyway · Docker
+`Next.js 15` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `Java 17` · `Spring Boot 3.5` · `Spring Security` · `MySQL 8` · `Flyway` · `Docker`
 
-**O que o projeto demonstra:**
-
-- **Isolamento por empresa** — dados e operações vinculados ao contexto correto da empresa no backend.
-- **Autenticação JWT + BCrypt** — JWT armazenado em cookie HttpOnly e senhas protegidas com BCrypt.
-- **RBAC server-side** — autorização baseada em papéis aplicada no backend, não apenas na interface.
-- **Faturamento integrado ao estoque** — vendas e compras conectadas a reservas, entradas, baixas e estornos.
-- **Controle de inventário** — depósitos, lotes, Kardex, inventário e histórico de movimentações.
-- **Banco versionado** — migrations controladas com Flyway.
-- **Qualidade** — testes de backend e frontend, E2E com Playwright e verificações de acessibilidade com Axe.
-- **Containerização** — ambiente local reproduzível com Docker.
-
-`Next.js 15` `React 19` `TypeScript 5` `Java 17` `Spring Boot 3.5` `Spring Security` `JWT` `BCrypt` `MySQL 8` `Flyway` `Docker` *(Repositório privado)*
+**Destaques técnicos:** isolamento por empresa, JWT em cookie HttpOnly, RBAC server-side, faturamento integrado ao estoque, depósitos, lotes, Kardex, inventário, migrations com Flyway e testes de backend/frontend/E2E.
 
 ---
 
@@ -61,15 +64,15 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 <div align="center">
 
-### Backend & APIs
+### Backend, automação & agentes
 
-<img src="https://skillicons.dev/icons?i=java,spring,php&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,php&theme=dark" alt="Backend, automação e agentes" />
 
-### Frontend & Mobile
+### Frontend & mobile
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend e mobile" />
 
-### Dados, Cloud & Infra
+### Dados, cloud & infraestrutura
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,aws,linux,nginx,docker,git,github&theme=dark" alt="Dados, cloud e infraestrutura" />
 
@@ -77,51 +80,50 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 ---
 
-## Projetos Públicos
+## Projetos públicos
 
-| Projeto | Descrição Técnica | Stack |
+| Projeto | O que demonstra | Stack |
 |---|---|---|
-| **[EduGestor v3](https://github.com/robertoatila/EduGestor-v3)** | Plataforma de gestão escolar com alunos, notas, frequência, relatórios, autenticação e integrações externas. | PHP 8 · React 18 · TypeScript 5 · Tailwind 4 · SQLite · Supabase |
-| **[Sushi & Sashimi Bar](https://github.com/robertoatila/Atividade-ProjetoFinal-ExpoGo)** | Protótipo acadêmico mobile com cardápio, componentes reutilizáveis, navegação, perfil, horários e status de funcionamento. | React Native · JavaScript · Expo |
-| **[Portfólio Arduino](https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino)** | Portfólio web interativo sem frameworks, com PWA, simulador, busca, visualização de códigos e animações otimizadas. | HTML5 · CSS3 · JavaScript ES6+ · PWA |
-| **[Cartão de Visitas Digital](https://github.com/robertoatila/Cartao-de-visitas)** | Aplicativo mobile de apresentação profissional com áreas de perfil, contatos e habilidades. | React Native · JavaScript |
-| **[Sonic e as Escadas 2.0](https://github.com/robertoatila/Sonic-Game)** | Jogo didático de plataformas em coautoria com Pietro Ferreira, com três fases, física, vidas, colisões e inimigos. | HTML5 · CSS3 · JavaScript |
-| **[Invincible – Invasão de Marte](https://github.com/robertoatila/invincible-game)** | Jogo de luta side-scrolling com três fases de dificuldade progressiva e boss final. | HTML5 Canvas · JavaScript |
+| **[J.A.R.V.I.S. Skill Registry](https://github.com/robertoatila/jarvis-skill-registry)** | Runtime agentic, registry de skills, roteamento contextual, progressive disclosure, verificação e memória persistente. | Python 3.12+ · Stdlib · Multi-Agent · Obsidian |
+| **[EduGestor v3](https://github.com/robertoatila/EduGestor-v3)** | Plataforma de gestão escolar com alunos, notas, frequência, relatórios, autenticação e integrações. | PHP 8 · React 18 · TypeScript · Tailwind · SQLite · Supabase |
+| **[Sushi & Sashimi Bar](https://github.com/robertoatila/Atividade-ProjetoFinal-ExpoGo)** | Aplicação mobile acadêmica com navegação, componentes reutilizáveis, cardápio e perfil. | React Native · JavaScript · Expo |
+| **[Portfólio Arduino](https://github.com/robertoatila/Portf-lios-de-Projetos-Arduino)** | Portfólio web interativo com PWA, simulador, busca, código e animações. | HTML5 · CSS3 · JavaScript · PWA |
+| **[Sonic e as Escadas 2.0](https://github.com/robertoatila/Sonic-Game)** | Jogo de plataforma com fases, física, colisões, vidas e inimigos. | HTML5 · CSS3 · JavaScript |
+| **[Invincible – Invasão de Marte](https://github.com/robertoatila/invincible-game)** | Jogo side-scrolling com dificuldade progressiva e boss final. | HTML5 Canvas · JavaScript |
 
 ---
 
-## Estatísticas
+## GitHub
 
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=robertoatila&theme=radical&locale=pt_BR&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=robertoatila&locale=pt_BR&hide_border=true&background=0D1117&ring=FFC525&fire=B10302&currStreakLabel=FFC525&sideNums=F0F6FC&currStreakNum=F0F6FC&sideLabels=8B949E&dates=8B949E&stroke=162FA3" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<img height="195" src="https://roberto-readme-stats.vercel.app/api?username=robertoatila&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Roberto Átila" />
-<img height="195" src="https://roberto-readme-stats.vercel.app/api/top-langs?username=robertoatila&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Linguagens mais usadas por Roberto Átila" />
+<img height="195" src="https://roberto-readme-stats.vercel.app/api?username=robertoatila&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFC525&text_color=F0F6FC&icon_color=B10302&ring_color=162FA3" alt="Estatísticas do GitHub de Roberto Átila" />
+<img height="195" src="https://roberto-readme-stats.vercel.app/api/top-langs?username=robertoatila&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=FFC525&text_color=F0F6FC" alt="Linguagens mais usadas por Roberto Átila" />
 
 </div>
 
 ---
 
-## Engenharia, Cloud & Segurança
+## Engenharia
 
 <div align="center">
 
-![REST](https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![REST](https://img.shields.io/badge/APIs_REST-162FA3?style=for-the-badge)
+![Spring Security](https://img.shields.io/badge/Spring_Security-B10302?style=for-the-badge&logo=springsecurity&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FFC525?style=for-the-badge&logo=python&logoColor=111111)
+![Docker](https://img.shields.io/badge/Docker-162FA3?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-B10302?style=for-the-badge&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FFC525?style=for-the-badge&logo=amazonwebservices&logoColor=111111)
 
 </div>
 
-`RBAC` · `BCrypt` · `Cookies HttpOnly` · `Segurança Web` · `Flyway` · `Banco de Dados` · `Testes` · `Playwright` · `Acessibilidade` · `Cloud Architecture`
+`Backend Architecture` · `REST APIs` · `RBAC` · `JWT` · `Databases` · `Docker` · `Linux` · `Testing` · `AI Agents` · `Tool Routing` · `Cloud`
 
 ---
 
@@ -129,14 +131,14 @@ Tenho interesse contínuo em **Segurança da Informação** e pretendo aprofunda
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/roberto-%C3%A1tila-almeida-azevedo-0a64412b4/"><img src="https://img.shields.io/badge/LinkedIn-Roberto_Átila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:roberto.atila10@gmail.com"><img src="https://img.shields.io/badge/Gmail-roberto.atila10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/robertoatila"><img src="https://img.shields.io/badge/GitHub-robertoatila-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/roberto-%C3%A1tila-almeida-azevedo-0a64412b4/"><img src="https://img.shields.io/badge/LinkedIn-Roberto_Átila-B10302?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:roberto.atila10@gmail.com"><img src="https://img.shields.io/badge/Gmail-roberto.atila10%40gmail.com-FFC525?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email" /></a>
+<a href="https://github.com/robertoatila"><img src="https://img.shields.io/badge/GitHub-robertoatila-162FA3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=8B949E&center=true&vCenter=true&width=650&lines=backend+%7C+cloud+%7C+security+%7C+full-stack;building+%7C+learning+%7C+improving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=FFC525&center=true&vCenter=true&width=700&lines=backend+%7C+architecture+%7C+security+%7C+ai+agents;building+%7C+testing+%7C+learning+%7C+iterating)](https://git.io/typing-svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,35:161B22,68:1F6FEB,100:8250DF&section=footer&animation=fadeIn" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,24:FFC525,52:B10302,82:162FA3,100:0D1117&section=footer&animation=fadeIn" alt="" />
 
 </div>
